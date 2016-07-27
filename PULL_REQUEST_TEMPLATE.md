@@ -1,4 +1,4 @@
-#### What's this PR do?
+### Code Review checklist
 
 - [ ] Reviewed for items in [Code review checklist](https://github.com/LiaisonTechnologies/dm/wiki/Code-Review-Checklist)
 - [ ] Reviewed for performance
