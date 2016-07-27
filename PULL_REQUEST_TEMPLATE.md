@@ -1,6 +1,6 @@
 #### What's this PR do?
 
-- [ ] Reviewed for Security Concerns
+- [ ] Reviewed for items in [Code review checklist](https://github.com/LiaisonTechnologies/dm/wiki/Code-Review-Checklist)
 - [ ] Reviewed for performance
 
 #### How should this be tested?
