@@ -1,10 +1,15 @@
-#### What's this PR do?
-#### Where should the reviewer start?
-#### How should this be manually tested?
-#### Any background context you want to provide?
-#### What are the relevant tickets?
-#### Screenshots (if appropriate)
-#### Questions:
-- Is there a blog post?
-- Does the knowledge base need an update?
-- Does this add new (Python) dependencies which need to be added to chef?
+## Pull Request checklist
+
+#### - What issue(s) is/are related to this pull request?
+
+#### - Any testing considerations or instructions
+
+#### - Code Review
+- [ ] Code changes were reviewed in accordance with the [Code review checklist](https://github.com/LiaisonTechnologies/dm/wiki/Code-Review-Checklist) including security considerations, PCI & OWASP
+- [ ] Configuration changes only, no security impact
+- [ ] Other non-code or non-functionality related changes, no security impact
+
+
+
+
+
