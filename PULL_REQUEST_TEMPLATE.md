@@ -5,8 +5,9 @@
 #### - Any testing considerations or instructions
 
 #### - Code Review
-- [ ] Reviewed for items in [Code review checklist](https://github.com/LiaisonTechnologies/dm/wiki/Code-Review-Checklist) including Security, PCI, OWASP
-- [ ] Configuration changes only
+- [ ] Code changes were reviewed in accordance with the [Code review checklist](https://github.com/LiaisonTechnologies/dm/wiki/Code-Review-Checklist) including Security considerations, PCI & OWASP
+- [ ] Configuration changes only, no security impact
+- [ ] Other non-code or non-functionality related changes, no security impact
 
 
 
